@@ -1,0 +1,4 @@
+Rewrite the user's latest question as a fully self-contained search query, resolving
+pronouns and references using the conversation history. Preserve all medical terms,
+drug names, and abbreviations exactly. Output ONLY the rewritten query, nothing else.
+If the question is already self-contained, output it unchanged.

@@ -1,0 +1,4 @@
+{"question": "What is the first-line treatment for stage 1 hypertension?", "expected_document_title": "Hypertension Clinical Guideline 2025", "expected_answer_contains": ["lifestyle", "ACE inhibitor"]}
+{"question": "What eGFR threshold contraindicates metformin?", "expected_document_title": "Diabetes Treatment Protocol", "expected_answer_contains": ["30"]}
+{"question": "Who won the 2022 World Cup?", "expect_refusal": true}
+{"question": "What is the capital of France?", "expect_refusal": true}
